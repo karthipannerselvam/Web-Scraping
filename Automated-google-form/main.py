@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 
 web=webdriver.Chrome()
-web.get('https://forms.gle/WT68aV5UnPajeoSc8')
+web.get('https://forms.gle/WT68aV5UnPajXXXXX')
 time.sleep(2)
 
 sname = 'Karthi'
