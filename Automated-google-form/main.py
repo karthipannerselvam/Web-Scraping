@@ -2,13 +2,13 @@ import time
 from selenium import webdriver
 
 web=webdriver.Chrome()
-web.get('https://forms.gle/WT68aV5UnPajeoSc8')
+web.get('https://forms.gle/WT68aV5UnPajXXXXX')
 time.sleep(2)
 
 sname = 'Karthi'
 name=web.find_element('xpath','//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input')
 name.send_keys(sname)
-snum='9363655025'
+snum='9363655XXX'
 num=web.find_element('xpath','//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input')
 num.send_keys(snum)
 semail='karthipannerselvam173@gmail.com'
