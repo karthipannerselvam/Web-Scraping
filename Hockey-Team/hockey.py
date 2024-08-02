@@ -10,6 +10,7 @@ soup=BeautifulSoup(website.content,'html.parser')
 table=soup.find('table',{'class':'table'})
 row=table.find_all('th')
 Heading = [con.text.strip() for con in row]
+
 name=table.find_all('td',{'class':'name'})
 name = [con.text.strip() for con in name]
 year=table.find_all('td',{'class':'year'})
