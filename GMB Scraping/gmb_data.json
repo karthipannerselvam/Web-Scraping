@@ -1,12 +1,21 @@
 [
     {
-        "name": "Kodiveri Waterfalls",
-        "address": "F7FW+7H7, Akkaraikodivery, Tamil Nadu 638503",
-        "phone number": "1800 4253 1111",
-        "url": "https://www.google.com/maps/place/Kodiveri+Waterfalls/data=!4m7!3m6!1s0x3ba923d2c86185cd:0x5d9a0eeaeb9ade43!8m2!3d11.4731723!4d77.2964271!16s%2Fg%2F1yg57v35s!19sChIJzYVhyNIjqTsRQ96a6-oOml0?authuser=0&hl=en&rclk=1",
-        "hours": "\u22c5 Closes 5\u202fpm",
-        "reviews": "18,303 reviews",
-        "links": "url not found"
+        "name": "Mystery Rooms - Indira Nagar, Bangalore (OFFICIAL Escape Rooms)",
+        "address": "2nd floor, 1133, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560037",
+        "phone number": "095991 89424",
+        "url": "https://www.google.com/maps/place/Mystery+Rooms+-+Indira+Nagar,+Bangalore+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bae16a7f9da407f:0xf56b58069e071a2f!8m2!3d12.9696261!4d77.6415861!16s%2Fg%2F11c6cjb3zh!19sChIJf0Da-acWrjsRLxoHngZYa_U?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "2,221 reviews",
+        "links": "mysteryrooms.in"
+    },
+    {
+        "name": "Breakout\u00ae Escape Rooms | Koramangala | #1 Escape room in Bangalore",
+        "address": "1st Floor, #27, NMR, 100 Feet Road, Intermediate Ring Rd, Koramangala, Bengaluru, Karnataka 560047",
+        "phone number": "080 6849 4129",
+        "url": "https://www.google.com/maps/place/Breakout%C2%AE+Escape+Rooms+%7C+Koramangala+%7C+%231+Escape+room+in+Bangalore/data=!4m7!3m6!1s0x3bae1469d7d4ce3b:0xda096cec2c0d2036!8m2!3d12.9382814!4d77.6305107!16s%2Fg%2F11b708llfh!19sChIJO87U12kUrjsRNiANLOxsCdo?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 10\u202fpm",
+        "reviews": "8,930 reviews",
+        "links": "breakout.in"
     },
     {
         "name": "Dare 2 Escape",
@@ -18,15 +27,6 @@
         "links": "dare2escape.in"
     },
     {
-        "name": "Unbound Escape Room",
-        "address": "2784, 9th Cross, Kalidasa Rd, behind ICICI Bank, Vani Vilas Mohalla, Mysuru, Karnataka 570012",
-        "phone number": "Phone number not found",
-        "url": "https://www.google.com/maps/place/Unbound+Escape+Room/data=!4m7!3m6!1s0x3baf7b9a2a5e48c9:0x3fbbfc97e18b33b1!8m2!3d12.3241967!4d76.6273144!16s%2Fg%2F11y29p4m3f!19sChIJyUheKpp7rzsRsTOL4Zf8uz8?authuser=0&hl=en&rclk=1",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "56 reviews",
-        "links": "linktr.ee"
-    },
-    {
         "name": "NoEscape Mysuru",
         "address": "973, First Floor, GEMARS infinity, Main Road, opposite Nirmithi Kendra, Bogadi 2nd Stage, Bogadi 2nd Stage North, Mysuru, Karnataka 570026",
         "phone number": "082170 51505",
@@ -36,12 +36,147 @@
         "links": "noescape.in"
     },
     {
-        "name": "ResQRoom Erode",
-        "address": "157/9, Palayapalayam Pirivu, Perundurai Rd, Erode, Tamil Nadu 638011",
-        "phone number": "073052 56270",
-        "url": "https://www.google.com/maps/place/ResQRoom+Erode/data=!4m7!3m6!1s0x3ba96f9757abdebd:0xcf79bc4355ead6a8!8m2!3d11.3282057!4d77.696534!16s%2Fg%2F11t8bzrq80!19sChIJvd6rV5dvqTsRqNbqVUO8ec8?authuser=0&hl=en&rclk=1",
+        "name": "House Off Riddles",
+        "address": "No:65/1, First Floor, Nava India Rd, Peelamedu, STV Nagar, Coimbatore, Tamil Nadu 641004",
+        "phone number": "063741 90414",
+        "url": "https://www.google.com/maps/place/House+Off+Riddles/data=!4m7!3m6!1s0x3ba8598a529c9685:0x278e74d81951a2b1!8m2!3d11.0219122!4d76.9937943!16s%2Fg%2F11sk3l8x82!19sChIJhZacUopZqDsRsaJRGdh0jic?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 9\u202fpm",
+        "reviews": "25 reviews",
+        "links": "url not found"
+    },
+    {
+        "name": "Unbound Escape Room",
+        "address": "2784, 9th Cross, Kalidasa Rd, behind ICICI Bank, Vani Vilas Mohalla, Mysuru, Karnataka 570012",
+        "phone number": "Phone number not found",
+        "url": "https://www.google.com/maps/place/Unbound+Escape+Room/data=!4m7!3m6!1s0x3baf7b9a2a5e48c9:0x3fbbfc97e18b33b1!8m2!3d12.3241967!4d76.6273144!16s%2Fg%2F11y29p4m3f!19sChIJyUheKpp7rzsRsTOL4Zf8uz8?authuser=0&hl=en&rclk=1",
         "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "260 reviews",
-        "links": "resqroom.com"
+        "reviews": "56 reviews",
+        "links": "linktr.ee"
+    },
+    {
+        "name": "Dare 2 Escape",
+        "address": "37, Ramachandra Rd, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+        "phone number": "097897 31012",
+        "url": "https://www.google.com/maps/place/Dare+2+Escape/data=!4m7!3m6!1s0x3ba8591b356f6d3f:0xa73fd8a5300fdea4!8m2!3d11.006474!4d76.954388!16s%2Fg%2F11cn94d7p4!19sChIJP21vNRtZqDsRpN4PMKXYP6c?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 9\u202fpm",
+        "reviews": "3,742 reviews",
+        "links": "dare2escape.in"
+    },
+    {
+        "name": "Escape Room",
+        "address": "Psquare, opp. Peruvazhiyambalam Masjid, Tirur, Kerala 676107",
+        "phone number": "099469 60004",
+        "url": "https://www.google.com/maps/place/Escape+Room/data=!4m7!3m6!1s0x3ba7b39c715c9a8d:0x896602eb2a4f8350!8m2!3d10.9295575!4d75.9096244!16s%2Fg%2F11pkkbbmzp!19sChIJjZpccZyzpzsRUINPKusCZok?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "135 reviews",
+        "links": "url not found"
+    },
+    {
+        "name": "ESCAPE ROOM Koramangala (Previously Mystery junkies)",
+        "address": "12, 3rd Floor Pragati Mansion, 1st Cross Rd, 5th Block, Koramangala, Karnataka 560034",
+        "phone number": "076763 72273",
+        "url": "https://www.google.com/maps/place/ESCAPE+ROOM+Koramangala+%28Previously+Mystery+junkies%29/data=!4m7!3m6!1s0x3bae145acf9b6ee5:0x9226131c8ce8d60d!8m2!3d12.9335667!4d77.6219326!16s%2Fg%2F11c58hrd4g!19sChIJ5W6bz1oUrjsRDdbojBwTJpI?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "2,980 reviews",
+        "links": "escapemgm.com"
+    },
+    {
+        "name": "The Wild Calls Resort",
+        "address": "2/245 A, Bongamukkai, Bangalapadi, Arakode Panchayat, Kotagiri, Tamil Nadu 643216",
+        "phone number": "063854 12340",
+        "url": "https://www.google.com/maps/place/The+Wild+Calls+Resort/data=!4m7!3m6!1s0x3ba8c354043171ff:0xd9a8202ecdb4f78e!8m2!3d11.4487908!4d77.0062574!16s%2Fg%2F11pq9rrvz2!19sChIJ_3ExBFTDqDsRjve0zS4gqNk?authuser=0&hl=en&rclk=1",
+        "hours": "",
+        "reviews": "51 reviews",
+        "links": "thewildcallsresort.com"
+    },
+    {
+        "name": "Mystery Rooms - Whitefield, Bangalore (Escape Rooms with Live Actor)",
+        "address": "HCS Complex, Main Borewell Road 3rd Cross, Corner, Whitefield Main Rd, Bengaluru, Karnataka 560066",
+        "phone number": "095991 89424",
+        "url": "https://www.google.com/maps/place/Mystery+Rooms+-+Whitefield,+Bangalore+%28Escape+Rooms+with+Live+Actor%29/data=!4m7!3m6!1s0x3bae0dd340744851:0xf5da9c3e65ece2d6!8m2!3d12.9684746!4d77.7456955!16s%2Fg%2F11y1hqp489!19sChIJUUh0QNMNrjsR1uLsZT6c2vU?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "296 reviews",
+        "links": "mysteryrooms.in"
+    },
+    {
+        "name": "Wenlock Downs 9th Mile Shooting Point",
+        "address": "CJVF+779, Coimbatore-Ooty-Gundlupet Hwy, Tamil Nadu 643005",
+        "phone number": "1800 4253 1111",
+        "url": "https://www.google.com/maps/place/Wenlock+Downs+9th+Mile+Shooting+Point/data=!4m7!3m6!1s0x3ba8a320b75bd38f:0x3dee0e8d022a0f8e!8m2!3d11.4431595!4d76.6232443!16s%2Fg%2F1q6cn9q2s!19sChIJj9NbtyCjqDsRjg8qAo0O7j0?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 6:45\u202fpm \u22c5 Opens 7\u202fam Sun",
+        "reviews": "18,759 reviews",
+        "links": "url not found"
+    },
+    {
+        "name": "Breakout\u00ae Escape Rooms | Whitefield | #1 Escape Room in Bangalore",
+        "address": "No.7, Prime Square, 3rd floor, Block 4, Whitefield Main Rd, Bengaluru, Karnataka 560066",
+        "phone number": "097423 86781",
+        "url": "https://www.google.com/maps/place/Breakout%C2%AE+Escape+Rooms+%7C+Whitefield+%7C+%231+Escape+Room+in+Bangalore/data=!4m7!3m6!1s0x3bae13ec5ee79a2f:0xe88fe550228be9bd!8m2!3d12.9727738!4d77.7505416!16s%2Fg%2F11kb7g6f3w!19sChIJL5rnXuwTrjsRvemLIlDlj-g?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 10:30\u202fpm",
+        "reviews": "776 reviews",
+        "links": "breakout.in"
+    },
+    {
+        "name": "Mystery Rooms Chennai - OFFICIAL Escape Rooms",
+        "address": "24, 2nd Flr, College Rd, above Kora), BBCL Magnum, Nungambakkam, Chennai, Tamil Nadu 600006",
+        "phone number": "095991 89425",
+        "url": "https://www.google.com/maps/place/Mystery+Rooms+Chennai+-+OFFICIAL+Escape+Rooms/data=!4m7!3m6!1s0x3a52666e43394997:0x243af7c7a95cfd08!8m2!3d13.0677954!4d80.2472212!16s%2Fg%2F11ggbl_j4r!19sChIJl0k5Q25mUjoRCP1cqcf3OiQ?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "1,444 reviews",
+        "links": "mysteryrooms.in"
+    },
+    {
+        "name": "Mystery Owl Escape Rooms",
+        "address": "Second floor, #1, Sree Premprasad Complex, New BEL Rd, Ashwath Nagar, Devasandra Layout, Bengaluru, Karnataka 560054",
+        "phone number": "077607 60303",
+        "url": "https://www.google.com/maps/place/Mystery+Owl+Escape+Rooms/data=!4m7!3m6!1s0x3bae17db698e8967:0x4bfc778e82de31f4!8m2!3d13.0272189!4d77.5718702!16s%2Fg%2F11f4r2h7b6!19sChIJZ4mOadsXrjsR9DHego53_Es?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 9:30\u202fpm",
+        "reviews": "873 reviews",
+        "links": "mysteryowl.com"
+    },
+    {
+        "name": "The Great Escape",
+        "address": "Unnamed Rd, 643232, Jagathala, Tamil Nadu 643231",
+        "phone number": "094484 64690",
+        "url": "https://www.google.com/maps/place/The+Great+Escape/data=!4m10!3m9!1s0x3ba89513820912db:0x1d767948f0627c4!5m2!4m1!1i2!8m2!3d11.3805572!4d76.7966264!16s%2Fg%2F11cnc38vw6!19sChIJ2xIJghOVqDsRxCcGj5Rn1wE?authuser=0&hl=en&rclk=1",
+        "hours": "",
+        "reviews": "73 reviews",
+        "links": "url not found"
+    },
+    {
+        "name": "The Amazing Escape - Escape Room Adventure",
+        "address": "#838 , 3rd floor, 7th Main Rd, Indiranagar, Bengaluru, Karnataka 560038",
+        "phone number": "088844 40258",
+        "url": "https://www.google.com/maps/place/The+Amazing+Escape+-+Escape+Room+Adventure/data=!4m7!3m6!1s0x3bae16a64e0c4e37:0xf6e2bfa27dfbb7ca!8m2!3d12.9725494!4d77.6396959!16s%2Fg%2F11c2khgslm!19sChIJN04MTqYWrjsRyrf7faK_4vY?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 10\u202fpm",
+        "reviews": "3,744 reviews",
+        "links": "theamazingescape.in"
+    },
+    {
+        "name": "Sangama River Confluence Point",
+        "address": "7CQJ+4VH, Kanakapura-Sangam Rd, Mugguru Forest, Karnataka 562126",
+        "phone number": "Phone number not found",
+        "url": "https://www.google.com/maps/place/Sangama+River+Confluence+Point/data=!4m7!3m6!1s0x3baeef22f631cb3f:0x6157a22d5668fe4b!8m2!3d12.2878098!4d77.4322423!16s%2Fg%2F11sdxlcwl3!19sChIJP8sx9iLvrjsRS_5oVi2iV2E?authuser=0&hl=en&rclk=1",
+        "hours": "",
+        "reviews": "506 reviews",
+        "links": "url not found"
+    },
+    {
+        "name": "Bandipur Safari Lodge, By Junglelodges.",
+        "address": "Angala Post, Gundlupet Taluk Chamarajanagar District, Melukamanahalli, Mysuru - Ooty Rd, Gundlepete, Karnataka 571126",
+        "phone number": "094495 97880",
+        "url": "https://www.google.com/maps/place/Bandipur+Safari+Lodge,+By+Junglelodges./data=!4m10!3m9!1s0x3ba8ad875959abc7:0xf4dbc092f39c62de!5m2!4m1!1i2!8m2!3d11.7033373!4d76.6412288!16s%2Fg%2F1vyxgvrc!19sChIJx6tZWYetqDsR3mKc85LA2_Q?authuser=0&hl=en&rclk=1",
+        "hours": "",
+        "reviews": "2,370 reviews",
+        "links": "junglelodges.com"
+    },
+    {
+        "name": "GaminGalaxy - Best Mystery Escape Rooms | Laser Tag | VR | Corporate team events | Birthdays | Whitefield",
+        "address": "1st Floor, plot#2, Graphite India Main Rd, above HDFC bank, Ashraya Layout, Seetharampalya, Mahadevapura, Bengaluru, Karnataka 560048",
+        "phone number": "063640 16789",
+        "url": "https://www.google.com/maps/place/GaminGalaxy+-+Best+Mystery+Escape+Rooms+%7C+Laser+Tag+%7C+VR+%7C+Corporate+team+events+%7C+Birthdays+%7C+Whitefield/data=!4m7!3m6!1s0x3bae115848c5697f:0xb812cba77423ba76!8m2!3d12.9817767!4d77.7087338!16s%2Fg%2F11fqb83hrh!19sChIJf2nFSFgRrjsRdrojdKfLErg?authuser=0&hl=en&rclk=1",
+        "hours": "\u22c5 Closes 10\u202fpm",
+        "reviews": "1,041 reviews",
+        "links": "gamingalaxy.in"
     }
 ]
