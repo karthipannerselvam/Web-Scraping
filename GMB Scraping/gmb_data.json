@@ -1,20 +1,11 @@
 [
     {
-        "name": "The Amazing Escape - Escape Room Adventure",
-        "address": "#838 , 3rd floor, 7th Main Rd, Indiranagar, Bengaluru, Karnataka 560038",
-        "phone number": "088844 40258",
-        "url": "https://www.theamazingescape.in/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "3,744 reviews",
-        "links": "https://www.google.com/maps/place/The+Amazing+Escape+-+Escape+Room+Adventure/data=!4m7!3m6!1s0x3bae16a64e0c4e37:0xf6e2bfa27dfbb7ca!8m2!3d12.9725494!4d77.6396959!16s%2Fg%2F11c2khgslm!19sChIJN04MTqYWrjsRyrf7faK_4vY?authuser=0&hl=en&rclk=1"
-    },
-    {
         "name": "ESCAPE ROOM Koramangala (Previously Mystery junkies)",
         "address": "12, 3rd Floor Pragati Mansion, 1st Cross Rd, 5th Block, Koramangala, Karnataka 560034",
         "phone number": "076763 72273",
         "url": "https://www.escapemgm.com/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "2,980 reviews",
+        "hours": "\u22c5 10:30\u202fpm \u22c5 Opens 11\u202fam Tue",
+        "reviews": "2,982 reviews",
         "links": "https://www.google.com/maps/place/ESCAPE+ROOM+Koramangala+%28Previously+Mystery+junkies%29/data=!4m7!3m6!1s0x3bae145acf9b6ee5:0x9226131c8ce8d60d!8m2!3d12.9335667!4d77.6219326!16s%2Fg%2F11c58hrd4g!19sChIJ5W6bz1oUrjsRDdbojBwTJpI?authuser=0&hl=en&rclk=1"
     },
     {
@@ -22,70 +13,88 @@
         "address": "2nd floor, 1133, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560037",
         "phone number": "095991 89424",
         "url": "https://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
+        "hours": "\u22c5 Closes 11\u202fpm",
         "reviews": "2,221 reviews",
         "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Indira+Nagar,+Bangalore+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bae16a7f9da407f:0xf56b58069e071a2f!8m2!3d12.9696261!4d77.6415861!16s%2Fg%2F11c6cjb3zh!19sChIJf0Da-acWrjsRLxoHngZYa_U?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Breakout\u00ae Escape Rooms | Koramangala | #1 Escape room in Bangalore",
-        "address": "1st Floor, #27, NMR, 100 Feet Road, Intermediate Ring Rd, Koramangala, Bengaluru, Karnataka 560047",
-        "phone number": "080 6849 4129",
-        "url": "https://breakout.in/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "8,933 reviews",
-        "links": "https://www.google.com/maps/place/Breakout%C2%AE+Escape+Rooms+%7C+Koramangala+%7C+%231+Escape+room+in+Bangalore/data=!4m7!3m6!1s0x3bae1469d7d4ce3b:0xda096cec2c0d2036!8m2!3d12.9382814!4d77.6305107!16s%2Fg%2F11b708llfh!19sChIJO87U12kUrjsRNiANLOxsCdo?authuser=0&hl=en&rclk=1"
     },
     {
         "name": "Breakout\u00ae Escape Rooms | Whitefield | #1 Escape Room in Bangalore",
         "address": "No.7, Prime Square, 3rd floor, Block 4, Whitefield Main Rd, Bengaluru, Karnataka 560066",
         "phone number": "097423 86781",
         "url": "http://breakout.in/",
-        "hours": "\u22c5 10:30\u202fpm \u22c5 Opens 11:30\u202fam Sun",
-        "reviews": "779 reviews",
+        "hours": "\u22c5 10:30\u202fpm \u22c5 Opens 1\u202fpm Tue",
+        "reviews": "783 reviews",
         "links": "https://www.google.com/maps/place/Breakout%C2%AE+Escape+Rooms+%7C+Whitefield+%7C+%231+Escape+Room+in+Bangalore/data=!4m7!3m6!1s0x3bae13ec5ee79a2f:0xe88fe550228be9bd!8m2!3d12.9727738!4d77.7505416!16s%2Fg%2F11kb7g6f3w!19sChIJL5rnXuwTrjsRvemLIlDlj-g?authuser=0&hl=en&rclk=1"
     },
     {
-        "name": "Freeing India",
-        "address": "E21, 16th Cross St, GOCHS Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
-        "phone number": "089398 39996",
-        "url": "http://freeingindia.in/",
-        "hours": "\u22c5 Opens 10\u202fam Sun",
-        "reviews": "704 reviews",
-        "links": "https://www.google.com/maps/place/Freeing+India/data=!4m7!3m6!1s0x3a5267f97b962405:0x99b4dc73701301b6!8m2!3d12.9961342!4d80.2690815!16s%2Fg%2F11f57stxwy!19sChIJBSSWe_lnUjoRtgETcHPctJk?authuser=0&hl=en&rclk=1"
+        "name": "Breakout\u00ae Escape Rooms | Koramangala | #1 Escape room in Bangalore",
+        "address": "1st Floor, #27, NMR, 100 Feet Road, Intermediate Ring Rd, Koramangala, Bengaluru, Karnataka 560047",
+        "phone number": "080 6849 4129",
+        "url": "https://breakout.in/",
+        "hours": "\u22c5 10\u202fpm \u22c5 Opens 11\u202fam Tue",
+        "reviews": "8,962 reviews",
+        "links": "https://www.google.com/maps/place/Breakout%C2%AE+Escape+Rooms+%7C+Koramangala+%7C+%231+Escape+room+in+Bangalore/data=!4m7!3m6!1s0x3bae1469d7d4ce3b:0xda096cec2c0d2036!8m2!3d12.9382814!4d77.6305107!16s%2Fg%2F11b708llfh!19sChIJO87U12kUrjsRNiANLOxsCdo?authuser=0&hl=en&rclk=1"
     },
     {
-        "name": "Freeing India",
-        "address": "123, Ispahani Centre, Nungambakkam High Rd, Chennai, Tamil Nadu 600034",
-        "phone number": "044 4230 0344",
-        "url": "http://www.freeingindia.in/",
-        "hours": "\u22c5 Opens 10\u202fam Sun",
-        "reviews": "924 reviews",
-        "links": "https://www.google.com/maps/place/Freeing+India/data=!4m7!3m6!1s0x3a52664171419e1f:0xbd06a8796bd2ff1f!8m2!3d13.0552914!4d80.2498353!16s%2Fg%2F11b6glv39w!19sChIJH55BcUFmUjoRH__Sa3moBr0?authuser=0&hl=en&rclk=1"
+        "name": "Mystery Rooms - Whitefield, Bangalore (Escape Rooms with Live Actor)",
+        "address": "HCS Complex, Main Borewell Road 3rd Cross, Corner, Whitefield Main Rd, Bengaluru, Karnataka 560066",
+        "phone number": "095991 89424",
+        "url": "https://www.mysteryrooms.in/bangalore/",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "301 reviews",
+        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Whitefield,+Bangalore+%28Escape+Rooms+with+Live+Actor%29/data=!4m7!3m6!1s0x3bae0dd340744851:0xf5da9c3e65ece2d6!8m2!3d12.9684746!4d77.7456955!16s%2Fg%2F11y1hqp489!19sChIJUUh0QNMNrjsR1uLsZT6c2vU?authuser=0&hl=en&rclk=1"
     },
     {
-        "name": "Breakthru - The Real Escape Room",
-        "address": "11/6, Ground floor, College Rd, Thousand Lights West, Nungambakkam, Chennai, Tamil Nadu 600034",
-        "phone number": "098845 69885",
-        "url": "https://breakthru.fun/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "740 reviews",
-        "links": "https://www.google.com/maps/place/Breakthru+-+The+Real+Escape+Room/data=!4m7!3m6!1s0x3a5267cd23f5ea33:0xaaa726e2bef8657b!8m2!3d13.0672106!4d80.253574!16s%2Fg%2F11fm15b8yn!19sChIJM-r1I81nUjoRe2X4vuImp6o?authuser=0&hl=en&rclk=1"
+        "name": "Mystery Rooms - Indira Nagar, Bangalore (OFFICIAL Escape Rooms)",
+        "address": "2nd floor, 1133, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560037",
+        "phone number": "095991 89424",
+        "url": "https://www.mysteryrooms.in/",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "2,221 reviews",
+        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Indira+Nagar,+Bangalore+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bae16a7f9da407f:0xf56b58069e071a2f!8m2!3d12.9696261!4d77.6415861!16s%2Fg%2F11c6cjb3zh!19sChIJf0Da-acWrjsRLxoHngZYa_U?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "name": "ResQRoom Erode",
+        "address": "157/9, Palayapalayam Pirivu, Perundurai Rd, Erode, Tamil Nadu 638011",
+        "phone number": "073052 56270",
+        "url": "https://www.resqroom.com/",
+        "hours": "\u22c5 10\u202fpm \u22c5 Opens 11\u202fam Tue",
+        "reviews": "264 reviews",
+        "links": "https://www.google.com/maps/place/ResQRoom+Erode/data=!4m7!3m6!1s0x3ba96f9757abdebd:0xcf79bc4355ead6a8!8m2!3d11.3282057!4d77.696534!16s%2Fg%2F11t8bzrq80!19sChIJvd6rV5dvqTsRqNbqVUO8ec8?authuser=0&hl=en&rclk=1"
     },
     {
         "name": "Mystery Rooms Chennai - OFFICIAL Escape Rooms",
         "address": "24, 2nd Flr, College Rd, above Kora), BBCL Magnum, Nungambakkam, Chennai, Tamil Nadu 600006",
         "phone number": "095991 89425",
         "url": "http://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "1,444 reviews",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "1,445 reviews",
         "links": "https://www.google.com/maps/place/Mystery+Rooms+Chennai+-+OFFICIAL+Escape+Rooms/data=!4m7!3m6!1s0x3a52666e43394997:0x243af7c7a95cfd08!8m2!3d13.0677954!4d80.2472212!16s%2Fg%2F11ggbl_j4r!19sChIJl0k5Q25mUjoRCP1cqcf3OiQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "name": "Breakthru - The Real Escape Room",
+        "address": "11/6, Ground floor, College Rd, Thousand Lights West, Nungambakkam, Chennai, Tamil Nadu 600034",
+        "phone number": "098845 69885",
+        "url": "https://breakthru.fun/",
+        "hours": "\u22c5 10\u202fpm \u22c5 Opens 11\u202fam Tue",
+        "reviews": "742 reviews",
+        "links": "https://www.google.com/maps/place/Breakthru+-+The+Real+Escape+Room/data=!4m7!3m6!1s0x3a5267cd23f5ea33:0xaaa726e2bef8657b!8m2!3d13.0672106!4d80.253574!16s%2Fg%2F11fm15b8yn!19sChIJM-r1I81nUjoRe2X4vuImp6o?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "name": "Freeing India",
+        "address": "123, Ispahani Centre, Nungambakkam High Rd, Chennai, Tamil Nadu 600034",
+        "phone number": "044 4230 0344",
+        "url": "http://www.freeingindia.in/",
+        "hours": "\u22c5 10\u202fpm \u22c5 Opens 10\u202fam Tue",
+        "reviews": "924 reviews",
+        "links": "https://www.google.com/maps/place/Freeing+India/data=!4m7!3m6!1s0x3a52664171419e1f:0xbd06a8796bd2ff1f!8m2!3d13.0552914!4d80.2498353!16s%2Fg%2F11b6glv39w!19sChIJH55BcUFmUjoRH__Sa3moBr0?authuser=0&hl=en&rclk=1"
     },
     {
         "name": "Mystery Rooms - Pacific Mall, Tagore Garden Delhi",
         "address": "Pacific Mall, Lower Ground Floor, Najafgarh Rd, Tagore Garden, Tilak Nagar, New Delhi, Delhi 110018",
         "phone number": "095991 89421",
         "url": "https://www.mysteryrooms.in/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
+        "hours": "\u22c5 10\u202fpm \u22c5 Opens 11\u202fam Tue",
         "reviews": "564 reviews",
         "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Pacific+Mall,+Tagore+Garden+Delhi/data=!4m7!3m6!1s0x390d057b1e7c306d:0xcedfd485bed0d0!8m2!3d28.6422638!4d77.1069601!16s%2Fg%2F11rcwbw7y7!19sChIJbTB8HnsFDTkR0NC-hdTfzgA?authuser=0&hl=en&rclk=1"
     },
@@ -94,53 +103,44 @@
         "address": "3rd Floor, D-213, Ring Rd, D Block, Mansarover Garden, New Delhi, Delhi, 110015",
         "phone number": "095991 89421",
         "url": "https://www.mysteryrooms.in/delhi",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "830 reviews",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "835 reviews",
         "links": "https://www.google.com/maps/place/Mystery+Rooms+2.0+-+Escape+Games,+Challenge+Rooms+%26+Cafe/data=!4m7!3m6!1s0x390d03dd5b848a99:0x3bd649f4b7558a02!8m2!3d28.6423643!4d77.1286207!16s%2Fg%2F11vlw0d7sw!19sChIJmYqEW90DDTkRAopVt_RJ1js?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "name": "Mystery Rooms - Rajouri Garden, Delhi",
+        "address": "B-7/9, Ring Rd, Block B, Rajouri Garden, New Delhi, Delhi, 110015",
+        "phone number": "095991 89421",
+        "url": "http://www.mysteryrooms.in/",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "3,021 reviews",
+        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Rajouri+Garden,+Delhi/data=!4m7!3m6!1s0x390d0315b757b237:0x4fe7b36771fa5dca!8m2!3d28.647238!4d77.1267873!16s%2Fg%2F11b6j0mgq9!19sChIJN7JXtxUDDTkRyl36cWez508?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "name": "Mystery Rooms- Connaught Place, Delhi",
+        "address": "M 94, First Floor, Connaught Cir, opp. Shankar Market, Connaught Place, New Delhi, Delhi 110001",
+        "phone number": "095991 89421",
+        "url": "https://www.mysteryrooms.in/",
+        "hours": "\u22c5 Closes 11\u202fpm",
+        "reviews": "1,510 reviews",
+        "links": "https://www.google.com/maps/place/Mystery+Rooms-+Connaught+Place,+Delhi/data=!4m7!3m6!1s0x390cfd5ab307ab3f:0x455d1d7f759de45!8m2!3d28.6335044!4d77.2225959!16s%2Fg%2F11gy253cm1!19sChIJP6sHs1r9DDkRRd5Z99fRVQQ?authuser=0&hl=en&rclk=1"
     },
     {
         "name": "The Hidden Hour Delhi (Hauz Khas Village) - Mystery Escape Rooms",
         "address": "47, First Floor, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016",
         "phone number": "073991 00500",
         "url": "https://www.thehiddenhour.com/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "1,560 reviews",
+        "hours": "\u22c5 Opens 12\u202fpm Tue",
+        "reviews": "1,561 reviews",
         "links": "https://www.google.com/maps/place/The+Hidden+Hour+Delhi+%28Hauz+Khas+Village%29+-+Mystery+Escape+Rooms/data=!4m7!3m6!1s0x390ce20d8fffffff:0xa8818ad42590014!8m2!3d28.5533545!4d77.1945979!16s%2Fg%2F11b6dw3071!19sChIJ____jw3iDDkRFABZQq0YiAo?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Hidden Hour Delhi (Connaught Place) - Mystery Escape Rooms",
-        "address": "G Block, CONNAUGHT PLACE, G-22, Ground Floor, Outer Circle Marina Arcade, near Bank of Baroda, New Delhi, Delhi 110001",
-        "phone number": "073991 00500",
-        "url": "https://www.thehiddenhour.com/",
-        "hours": "\u22c5 Opens 10\u202fam Sun",
-        "reviews": "111 reviews",
-        "links": "https://www.google.com/maps/place/The+Hidden+Hour+Delhi+%28Connaught+Place%29+-+Mystery+Escape+Rooms/data=!4m7!3m6!1s0x390cfd58854868ed:0xe6e72424120ccb46!8m2!3d28.6330596!4d77.2166614!16s%2Fg%2F11w3fgrp4_!19sChIJ7WhIhVj9DDkRRssMEiQk5-Y?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Puzzles",
-        "address": "B3, Block B, Sector 4, Noida, Uttar Pradesh 201301",
-        "phone number": "099977 90066",
-        "url": "url not found",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "63 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Puzzles/data=!4m7!3m6!1s0x390ce58d4395bd55:0xe0ac177aa6a4cb56!8m2!3d28.58231!4d77.32476!16s%2Fg%2F11fcls1yqb!19sChIJVb2VQ43lDDkRVsukpnoXrOA?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - Koregaon Park, Pune (OFFICIAL Escape Rooms)",
-        "address": "Lane No. 7, Out of the World Building, First Floor, Koregaon Park, Pune, Maharashtra 411001",
-        "phone number": "095991 89426",
-        "url": "http://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "2,886 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Koregaon+Park,+Pune+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bc2c107ee1e9801:0x3c3c2053baec9cc6!8m2!3d18.5344236!4d73.899733!16s%2Fg%2F11c6cfr6sg!19sChIJAZge7gfBwjsRxpzsulMgPDw?authuser=0&hl=en&rclk=1"
     },
     {
         "name": "ResQRoom | Escape Games | Pune",
         "address": "Pune 1st Floor, 'LIBERTY II PHASE, 323, N Main Rd, opp. Lane Number 6, Koregaon Park, Pune, Maharashtra 411001",
         "phone number": "076200 18211",
         "url": "http://www.resqroom.com/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "175 reviews",
+        "hours": "\u22c5 Opens 11\u202fam Tue",
+        "reviews": "177 reviews",
         "links": "https://www.google.com/maps/place/ResQRoom+%7C+Escape+Games+%7C+Pune/data=!4m7!3m6!1s0x3bc2c04588697501:0xb6eeff077cd7838f!8m2!3d18.5394337!4d73.8985652!16s%2Fg%2F11c1rt3d97!19sChIJAXVpiEXAwjsRj4PXfAf_7rY?authuser=0&hl=en&rclk=1"
     },
     {
@@ -148,701 +148,17 @@
         "address": "2nd Floor, A Wing, Nyati Empress, Viman Nagar Rd, next to Baker Gauges India Pvt. Ltd, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
         "phone number": "095991 89426",
         "url": "https://www.mysteryrooms.in/pune",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
+        "hours": "\u22c5 Closes 11\u202fpm",
         "reviews": "654 reviews",
         "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Viman+Nagar,+Pune+%28Escape+Rooms+with+Live+Actor%29/data=!4m7!3m6!1s0x3bc2c12e2db93d93:0x8f9331f49fcaffe8!8m2!3d18.564211!4d73.9184755!16s%2Fg%2F11ks3vn1g2!19sChIJkz25LS7BwjsR6P_Kn_Qxk48?authuser=0&hl=en&rclk=1"
     },
     {
-        "name": "Rare Escape - Live Escape Game / Fun things to do in Lower Parel - west",
-        "address": "1st floor, Mathuradas Mill Compound, DB house, Unit. - 4, Lower Parel West, Mumbai, Maharashtra 400013",
-        "phone number": "089766 20770",
-        "url": "http://rareescape.in/",
-        "hours": "\u22c5 Opens 11:30\u202fam Sun",
-        "reviews": "331 reviews",
-        "links": "https://www.google.com/maps/place/Rare+Escape+-+Live+Escape+Game+%2F+Fun+things+to+do+in+Lower+Parel+-+west/data=!4m7!3m6!1s0x3be7cfb440ef6925:0xf53541882ddf7782!8m2!3d18.9993567!4d72.8304315!16s%2Fg%2F11s5p2wd0z!19sChIJJWnvQLTP5zsRgnffLYhBNfU?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms, Andheri Mumbai - OFFICIAL Escape Rooms",
-        "address": "103, First Floor, Shree Krishna Tower, New Link Rd, opp. Laxmi Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
-        "phone number": "093102 43081",
+        "name": "Mystery Rooms - Koregaon Park, Pune (OFFICIAL Escape Rooms)",
+        "address": "Lane No. 7, Out of the World Building, First Floor, Koregaon Park, Pune, Maharashtra 411001",
+        "phone number": "095991 89426",
         "url": "http://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "1,929 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms,+Andheri+Mumbai+-+OFFICIAL+Escape+Rooms/data=!4m7!3m6!1s0x3be7b623a005cbcf:0xc56806995825e10a!8m2!3d19.1353022!4d72.8323354!16s%2Fg%2F11g03hqrw7!19sChIJz8sFoCO25zsRCuElWJkGaMU?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Room Mumbai",
-        "address": "Shop no 7, Devrkur wadi, behind Evershine Mall, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",
-        "phone number": "Phone number not found",
-        "url": "https://noescape.in/location/malad/",
-        "hours": "\u22c5 10:30\u202fpm \u22c5 Opens 10:30\u202fam Sun",
-        "reviews": "263 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Room+Mumbai/data=!4m7!3m6!1s0x3be7b70ecb4a0b9b:0xe045cb72eb0d841e!8m2!3d19.1784114!4d72.8360309!16s%2Fg%2F11t6_y0g8c!19sChIJmwtKyw635zsRHoQN63LLReA?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - Phoenix Market City, Kurla Mumbai (Escape Rooms With Live Actor)",
-        "address": "S-30,31 ,32, Lal Bahadur Shastri Marg, Patelwadi.Kurla, Kurla West, Kurla, Mumbai, Maharashtra 400070",
-        "phone number": "093102 43081",
-        "url": "https://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "1,152 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Phoenix+Market+City,+Kurla+Mumbai+%28Escape+Rooms+With+Live+Actor%29/data=!4m7!3m6!1s0x3be7c97d3274e395:0x71d1628a5fbc2796!8m2!3d19.0863962!4d72.8890314!16s%2Fg%2F11t9mljg95!19sChIJleN0Mn3J5zsRlie8X4pi0XE?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Rare Escape - Live Escape Game in Fort and Churchgate",
-        "address": "Bahubali Building, 17 C, Cawasji Patel Rd, behind Sabyasachi Building, near Vardhman Chambers, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
-        "phone number": "098193 80311",
-        "url": "https://rareescape.in/",
-        "hours": "\u22c5 Opens 11:30\u202fam Sun",
-        "reviews": "166 reviews",
-        "links": "https://www.google.com/maps/place/Rare+Escape+-+Live+Escape+Game+in+Fort+and+Churchgate/data=!4m7!3m6!1s0x3be7d174547ca25f:0xc6a4c718aa03e0ff!8m2!3d18.9324372!4d72.8334311!16s%2Fg%2F11v4dc3j8l!19sChIJX6J8VHTR5zsR_-ADqhjHpMY?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - AJC BOSE ROAD",
-        "address": "1, Acharya Jagdish Chandra Bose Rd, Elgin, Kolkata, West Bengal 700020",
-        "phone number": "Phone number not found",
-        "url": "http://www.mysteryrooms.in/",
-        "hours": "\u22c5 Opens 10\u202fam Sun",
-        "reviews": "417 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+AJC+BOSE+ROAD/data=!4m7!3m6!1s0x3a0277166dc69d39:0x92946a5ba97f89be!8m2!3d22.541973!4d88.3486221!16s%2Fg%2F11cly58nsg!19sChIJOZ3GbRZ3AjoRvol_qVtqlJI?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - Park Street, Kolkata (Escape Rooms with Live Actor)",
-        "address": "Bangur BFL Estate 31, Chowringhee Road, Mother Teresa Sarani, near ICICI Bank, Kolkata, West Bengal 700016",
-        "phone number": "078274 29476",
-        "url": "https://www.mysteryrooms.in/kolkata",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "1,064 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Park+Street,+Kolkata+%28Escape+Rooms+with+Live+Actor%29/data=!4m7!3m6!1s0x3a02772e6f55f52d:0xa81e32c979f98795!8m2!3d22.5546475!4d88.3507047!16s%2Fg%2F11vkq016l9!19sChIJLfVVby53AjoRlYf5eckyHqg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - Jubilee Hills, Hyderabad (Escape Rooms with Live Actor)",
-        "address": "Third Floor \u091c\u093c\u094b\u0928\u093e, \u0928\u0947\u092a\u091a\u094d\u092f\u0942\u0928 \u0970\u0970\u0970\u092b\u0942\u0921 \u0915\u094b\u0930\u094d\u091f, SVM Mall, Rd Number 36, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
-        "phone number": "095991 89422",
-        "url": "http://www.mysteryrooms.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "2,179 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Jubilee+Hills,+Hyderabad+%28Escape+Rooms+with+Live+Actor%29/data=!4m7!3m6!1s0x3bcb9149d13a8ba3:0x7b93a484946f8629!8m2!3d17.4315961!4d78.4065686!16s%2Fg%2F11dyb778g8!19sChIJo4s60UmRyzsRKYZvlISkk3s?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Amazing Escape",
-        "address": "C9JX+WMP, Masthan Nagar, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
-        "phone number": "088844 40258",
-        "url": "https://www.theamazingescape.in/",
-        "hours": "",
-        "reviews": "13 reviews",
-        "links": "https://www.google.com/maps/place/Amazing+Escape/data=!4m7!3m6!1s0x3bcb91ee34be0c23:0x55af1aa1fe846d55!8m2!3d17.4323367!4d78.3992029!16s%2Fg%2F11pdw8t4ys!19sChIJIwy-NO6RyzsRVW2E_qEar1U?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mystery Rooms - Banjara Hills, Hyderabad (OFFICIAL Escape Rooms)",
-        "address": "Plot No. 8-2-701/1&2, 3rd Floor, Road No. 12, opp. Mahesh Bank, Banjara Hills, Hyderabad, Telangana 500034",
-        "phone number": "095991 89422",
-        "url": "https://www.mysteryrooms.in/",
-        "hours": "\u22c5 10:45\u202fpm \u22c5 Opens 11\u202fam Sun",
-        "reviews": "410 reviews",
-        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Banjara+Hills,+Hyderabad+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bcb97b0a4d1cf25:0xc79e6ec9a44e2281!8m2!3d17.4073738!4d78.4440324!16s%2Fg%2F11kv58cx95!19sChIJJc_RpLCXyzsRgSJOpMlunsc?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Time Prasads",
-        "address": "1st Floor, Prasads Imax Multiplex IMAX Road, NTR Marg, Khairtabad, Hyderabad, Telangana 500063",
-        "phone number": "040 4917 0077",
-        "url": "https://www.escapetime.in/",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "1,482 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Time+Prasads/data=!4m7!3m6!1s0x3bcb97ceb8b7c3e1:0xc41118c9bce96e80!8m2!3d17.4128716!4d78.465708!16s%2Fg%2F11s8lf1gym!19sChIJ4cO3uM6XyzsRgG7pvMkYEcQ?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Time Madhapur - Mystery Escape Rooms",
-        "address": "2nd Floor, #3-22S, Divya Daimonds Building, Madhapur, Kavuri Hills Rd, CBI Colony, Hitech City, Hyderabad, Telangana 500033",
-        "phone number": "040 4917 0077",
-        "url": "http://www.escapetime.in/",
-        "hours": "\u22c5 11\u202fpm \u22c5 Opens 10:30\u202fam Sun",
-        "reviews": "1,972 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Time+Madhapur+-+Mystery+Escape+Rooms/data=!4m7!3m6!1s0x3bcb913ae760a50b:0x8b701b673fd16e02!8m2!3d17.435979!4d78.3944075!16s%2Fg%2F11h79s84cj!19sChIJC6Vg5zqRyzsRAm7RP2cbcIs?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game NYC",
-        "address": "295 Madison Ave, Manhattan, NY 10017, United States",
-        "phone number": "+1 917-970-1360",
-        "url": "https://theescapegame.com/newyorkcity/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=newyorkcity",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "6,521 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+NYC/data=!4m7!3m6!1s0x89c259fb13060cc3:0x1dfb8a245fe8979a!8m2!3d40.7519349!4d-73.9797268!16s%2Fg%2F11fmq0969m!19sChIJwwwGE_tZwokRmpfoXySK-x0?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Komnata Quest Brooklyn",
-        "address": "104 West St, Brooklyn, NY 11222, United States",
-        "phone number": "+1 347-551-4808",
-        "url": "http://komnataquest.com/",
-        "hours": "\u22c5 Opens 1:40\u202fpm",
-        "reviews": "798 reviews",
-        "links": "https://www.google.com/maps/place/Komnata+Quest+Brooklyn/data=!4m7!3m6!1s0x89c25940231756c3:0xc336ad51f7e3bf6b!8m2!3d40.7302241!4d-73.9591377!16s%2Fg%2F11bv1pgp2y!19sChIJw1YXI0BZwokRa7_j91GtNsM?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape the Room NYC",
-        "address": "24 W 25th St floor 8, Manhattan, NY 10010, United States",
-        "phone number": "+1 347-954-9160",
-        "url": "https://escapetheroom.com/new-york/",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "7,964 reviews",
-        "links": "https://www.google.com/maps/place/Escape+the+Room+NYC/data=!4m7!3m6!1s0x89c259a448263a99:0x81dedc3b4459a18b!8m2!3d40.743339!4d-73.990338!16s%2Fg%2F11dfphr9y_!19sChIJmTomSKRZwokRi6FZRDvc3oE?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Exit Escape Room NYC",
-        "address": "247 W 36th St. Suite 101, New York, NY 10018, United States",
-        "phone number": "+1 917-837-4129",
-        "url": "https://www.exitescaperoomnyc.com/",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "1,128 reviews",
-        "links": "https://www.google.com/maps/place/Exit+Escape+Room+NYC/data=!4m7!3m6!1s0x89c259acf3709d43:0x2a4a59d0208009a9!8m2!3d40.7532054!4d-73.9912901!16s%2Fg%2F11f08cwb_g!19sChIJQ51w86xZwokRqQmAINBZSio?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Great Escape Room Queens Rego Park",
-        "address": "62-33 Woodhaven Blvd, Queens, NY 11374, United States",
-        "phone number": "+1 917-300-1680",
-        "url": "http://www.thegreatescaperoom.com/queens?utm_source=gmb&utm_medium=organic",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "2,223 reviews",
-        "links": "https://www.google.com/maps/place/The+Great+Escape+Room+Queens+Rego+Park/data=!4m7!3m6!1s0x89c25f36c14d27db:0x5a687b5ecaf02cda!8m2!3d40.726089!4d-73.8698692!16s%2Fg%2F11nmdhy94h!19sChIJ2ydNwTZfwokR2izwyl57aFo?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "QUEST ROOM - Culver City Escape Rooms",
-        "address": "5235 W Adams Blvd, Los Angeles, CA 90016, United States",
-        "phone number": "+1 323-457-7222",
-        "url": "https://questroom.com/locations/culver-city",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "612 reviews",
-        "links": "https://www.google.com/maps/place/QUEST+ROOM+-+Culver+City+Escape+Rooms/data=!4m7!3m6!1s0x80c2b928099846f9:0x4ac5059a9a5d2830!8m2!3d34.0327151!4d-118.3563088!16s%2Fg%2F11vt0hplym!19sChIJ-UaYCSi5woARMChdmpoFxUo?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "QUEST ROOM - Hollywood Escape Rooms",
-        "address": "Entrance from the back alley, 5517 Santa Monica Blvd, Los Angeles, CA 90038, United States",
-        "phone number": "+1 323-880-0221",
-        "url": "https://questroom.com/locations/hollywood",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "3,062 reviews",
-        "links": "https://www.google.com/maps/place/QUEST+ROOM+-+Hollywood+Escape+Rooms/data=!4m7!3m6!1s0x80c2b8ad41fb1b4b:0xdafb2f036b6bafca!8m2!3d34.0911441!4d-118.3098964!16s%2Fg%2F11f3n17vbg!19sChIJSxv7Qa24woARyq9rawMv-9o?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game LA",
-        "address": "10250 Santa Monica Blvd Space 2945, Los Angeles, CA 90067, United States",
-        "phone number": "+1 310-928-6074",
-        "url": "https://theescapegame.com/la/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=la",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "2,742 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+LA/data=!4m7!3m6!1s0x80c2bba361389de3:0x5f5a4e5d4df75240!8m2!3d34.0586491!4d-118.4187552!16s%2Fg%2F11tbvxmvnn!19sChIJ4504YaO7woARQFL3TV1OWl8?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "QUEST ROOM - Los Angeles Escape Rooms",
-        "address": "170 S Western Ave, Los Angeles, CA 90004, United States",
-        "phone number": "+1 310-707-1240",
-        "url": "https://questroom.com/locations/korea-town",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "3,053 reviews",
-        "links": "https://www.google.com/maps/place/QUEST+ROOM+-+Los+Angeles+Escape+Rooms/data=!4m7!3m6!1s0x80c2b8987a4ec7b9:0x28dc8832d51cd56b!8m2!3d34.0716725!4d-118.3089736!16s%2Fg%2F11c20cpc82!19sChIJucdOepi4woARa9Uc1TKI3Cg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Hatch Escapes",
-        "address": "1919 3rd Ave, Los Angeles, CA 90018, United States",
-        "phone number": "+1 323-747-8333",
-        "url": "http://hatchescapes.com/",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "220 reviews",
-        "links": "https://www.google.com/maps/place/Hatch+Escapes/data=!4m7!3m6!1s0x80c2b867ce14e8eb:0x277c1af3ad0f1361!8m2!3d34.0392818!4d-118.3202006!16s%2Fg%2F11hbgsc9y9!19sChIJ6-gUzme4woARYRMPrfMafCc?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Sherlock's Escape Rooms Fort Worth",
-        "address": "12465 Timberland Blvd, Fort Worth, TX 76244, United States",
-        "phone number": "+1 817-559-1610",
-        "url": "http://www.sherlocksescaperooms.com/",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "3,958 reviews",
-        "links": "https://www.google.com/maps/place/Sherlock%27s+Escape+Rooms+Fort+Worth/data=!4m7!3m6!1s0x864dd93348cfb2a7:0xb849bad3ec368b5a!8m2!3d32.9547328!4d-97.28261!16s%2Fg%2F11ssgdlg__!19sChIJp7LPSDPZTYYRWos27NO6Sbg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escapology",
-        "address": "11970 Barker Cypress Rd, Cypress, TX 77433, United States",
-        "phone number": "+1 832-979-3858",
-        "url": "https://www.escapology.com/en/houston-%28cypress%29-tx",
         "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "271 reviews",
-        "links": "https://www.google.com/maps/place/Escapology/data=!4m7!3m6!1s0x8640d5e8a2accbb9:0xaeaa6f8e30b3d0b2!8m2!3d29.9495057!4d-95.6737709!16s%2Fg%2F11tmq1nm65!19sChIJucusoujVQIYRstCzMI5vqq4?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game The Colony",
-        "address": "5752 Grandscape Blvd Suite 150, The Colony, TX 75056, United States",
-        "phone number": "+1 469-551-8344",
-        "url": "https://theescapegame.com/the-colony/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=the-colony",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "3,675 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+The+Colony/data=!4m7!3m6!1s0x864c3b25e829ce3b:0x25c391d00c637a12!8m2!3d33.0749855!4d-96.860541!16s%2Fg%2F11tjx941hj!19sChIJO84p6CU7TIYREnpjDNCRwyU?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Artist Woodlands",
-        "address": "210 Spring Hill Dr Unit # 125, Spring, TX 77386, United States",
-        "phone number": "+1 832-621-8284",
-        "url": "https://escapeartistw.com/",
-        "hours": "\u22c5 12\u202fpm",
-        "reviews": "307 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Artist+Woodlands/data=!4m7!3m6!1s0x864735bc14e6f755:0x6d93b5bdf56a4cd7!8m2!3d30.1215285!4d-95.4402575!16s%2Fg%2F11l1dj7nnk!19sChIJVffmFLw1R4YR10xq9b21k20?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game Grapevine",
-        "address": "3000 Grapevine Mills Pkwy Suite 604, Grapevine, TX 76051, United States",
-        "phone number": "+1 214-692-2180",
-        "url": "https://theescapegame.com/grapevine/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=grapevine",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "6,819 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+Grapevine/data=!4m7!3m6!1s0x864c2b841d046911:0x8f2fae12315e3a90!8m2!3d32.9646547!4d-97.0437177!16s%2Fg%2F11g7nyyf_k!19sChIJEWkEHYQrTIYRkDpeMRKuL48?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "ScreamWorks",
-        "address": "Unit 261, Secret Location, Railway Arch, Paradise Row, London E2 9LE, United Kingdom",
-        "phone number": "+44 20 7060 6061",
-        "url": "http://www.screamworks.co.uk/",
-        "hours": "\u22c5 Closes 10:30\u202fpm",
-        "reviews": "291 reviews",
-        "links": "https://www.google.com/maps/place/ScreamWorks/data=!4m7!3m6!1s0x48761d208717ab71:0xdd1ac11710bac038!8m2!3d51.5292522!4d-0.0563207!16s%2Fg%2F11sf2373hj!19sChIJcasXhyAddkgROMC6EBfBGt0?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape London",
-        "address": "117 Uxbridge Rd, London W12 8NL, United Kingdom",
-        "phone number": "+44 7498 285761",
-        "url": "http://www.escape-london.co.uk/",
-        "hours": "\u22c5 Closes 9\u202fpm",
-        "reviews": "1,966 reviews",
-        "links": "https://www.google.com/maps/place/Escape+London/data=!4m7!3m6!1s0x48760fd2e616c713:0x8c1e18af80b71ffb!8m2!3d51.5063454!4d-0.2333582!16s%2Fg%2F11c1nk1cz_!19sChIJE8cW5tIPdkgR-x-3gK8YHow?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Hunt Oxford Street",
-        "address": "70 Oxford St, London W1D 1BN, United Kingdom",
-        "phone number": "+44 20 7637 3222",
-        "url": "https://escapehunt.com/uk/london-oxford-street/?utm_campaign&utm_source=GMB&utm_medium=search",
-        "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "2,130 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Hunt+Oxford+Street/data=!4m7!3m6!1s0x48761b539ea7306f:0xf6a726b94a140cf4!8m2!3d51.5162176!4d-0.1339081!16s%2Fg%2F11sbfkz1pk!19sChIJbzCnnlMbdkgR9AwUSrkmp_Y?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Secret Studio",
-        "address": "Wentworth St, London E1 7SA, United Kingdom",
-        "phone number": "Phone number not found",
-        "url": "http://escapeintime.co.uk/secretstudiolondon",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "225 reviews",
-        "links": "https://www.google.com/maps/place/Secret+Studio/data=!4m7!3m6!1s0x48761b33a8245979:0xea8806564adcfec1!8m2!3d51.5171921!4d-0.0709495!16s%2Fg%2F1tycw3_1!19sChIJeVkkqDMbdkgRwf7cSlYGiOo?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "SENSAS London",
-        "address": "Arch 17 Miles St, London SW8 1RZ, United Kingdom",
-        "phone number": "+44 7944 020710",
-        "url": "https://london.sensas.top/",
-        "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "699 reviews",
-        "links": "https://www.google.com/maps/place/SENSAS+London/data=!4m7!3m6!1s0x487605b47fc17e39:0xd777454c38e5f001!8m2!3d51.4826411!4d-0.1252739!16s%2Fg%2F11rrp4zg6q!19sChIJOX7Bf7QFdkgRAfDlOExFd9c?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Great Escape Room Chicago",
-        "address": "160 E Grand Ave #400, Chicago, IL 60611, United States",
-        "phone number": "+1 312-281-8915",
-        "url": "https://thegreatescaperoom.com/chicago?utm_source=gmb&utm_medium=organic",
-        "hours": "\u22c5 12\u202fpm",
-        "reviews": "3,567 reviews",
-        "links": "https://www.google.com/maps/place/The+Great+Escape+Room+Chicago/data=!4m7!3m6!1s0x880e2cab888e4da5:0xfe8ceb4be5599b1a!8m2!3d41.8918771!4d-87.623072!16s%2Fg%2F11clycsxtn!19sChIJpU2OiKssDogRGptZ5UvrjP4?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Fox In A Box Escape Room Chicago",
-        "address": "47 W Polk St suite l5 basement, Chicago, IL 60605, United States",
-        "phone number": "+1 312-878-7899",
-        "url": "https://www.foxinaboxchicago.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "2,585 reviews",
-        "links": "https://www.google.com/maps/place/Fox+In+A+Box+Escape+Room+Chicago/data=!4m7!3m6!1s0x880e2c9767d6b1e9:0xb71312a7ccf9d01e!8m2!3d41.8718392!4d-87.6287501!16s%2Fg%2F11bwc1541r!19sChIJ6bHWZ5csDogRHtD5zKcSE7c?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "PanIQ Escape Room Chicago (Logan Square)",
-        "address": "3061 W Logan Blvd, Chicago, IL 60647, United States",
-        "phone number": "+1 312-300-6733",
-        "url": "https://paniqescaperoom.com/chicago",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "460 reviews",
-        "links": "https://www.google.com/maps/place/PanIQ+Escape+Room+Chicago+%28Logan+Square%29/data=!4m7!3m6!1s0x880fcd2f2139d797:0x3397b66b4ff67c03!8m2!3d41.928031!4d-87.7049109!16s%2Fg%2F11hzqb0gwl!19sChIJl9c5IS_ND4gRA3z2T2u2lzM?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game Chicago",
-        "address": "42 E Ontario St, Chicago, IL 60611, United States",
-        "phone number": "+1 312-453-7753",
-        "url": "https://theescapegame.com/chicago/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=chicago",
-        "hours": "",
-        "reviews": "12,774 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+Chicago/data=!4m7!3m6!1s0x880e2cad1c8303cf:0x82e800609fb6228!8m2!3d41.8934222!4d-87.6265373!16s%2Fg%2F11csrq7j85!19sChIJzwODHK0sDogRKGL7CQaALgg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "PanIQ Escape Room Chicago (Fulton Market)",
-        "address": "1200 W Lake St, Chicago, IL 60607, United States",
-        "phone number": "+1 312-837-3125",
-        "url": "https://paniqescaperoom.com/chicago",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "792 reviews",
-        "links": "https://www.google.com/maps/place/PanIQ+Escape+Room+Chicago+%28Fulton+Market%29/data=!4m7!3m6!1s0x880e2cd81fa8308d:0xd8c2b656f8b75067!8m2!3d41.8857536!4d-87.6570053!16s%2Fg%2F11cl_k3wky!19sChIJjTCoH9gsDogRZ1C3-Fa2wtg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game Las Vegas",
-        "address": "3500 Las Vegas Blvd S Space T-11B, Las Vegas, NV 89109, United States",
-        "phone number": "+1 702-710-8144",
-        "url": "https://theescapegame.com/lasvegas/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=lasvegas",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "7,175 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+Las+Vegas/data=!4m7!3m6!1s0x80c8c52d67c963b1:0x854b5f9213037f9c!8m2!3d36.1191101!4d-115.1735616!16s%2Fg%2F11j4wxcg1f!19sChIJsWPJZy3FyIARnH8DE5JfS4U?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape IT",
-        "address": "273 S M.L.K. Blvd, Las Vegas, NV 89106, United States",
-        "phone number": "+1 702-333-0770",
-        "url": "https://escapeit.com/",
-        "hours": "\u22c5 Opens 12\u202fpm",
-        "reviews": "8,434 reviews",
-        "links": "https://www.google.com/maps/place/Escape+IT/data=!4m7!3m6!1s0x80c8c305a8893b59:0xadfe4e50dc83cd50!8m2!3d36.1712856!4d-115.160067!16s%2Fg%2F11k449k74b!19sChIJWTuJqAXDyIARUM2D3FBO_q0?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Lost Games Escape Rooms Las Vegas",
-        "address": "3075 S Valley View Blvd, Las Vegas, NV 89102, United States",
-        "phone number": "+1 702-551-3075",
-        "url": "https://www.lostgameslv.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "1,080 reviews",
-        "links": "https://www.google.com/maps/place/Lost+Games+Escape+Rooms+Las+Vegas/data=!4m7!3m6!1s0x80c8c6aa2c0e8c51:0xf886523a672a7742!8m2!3d36.134398!4d-115.1917253!16s%2Fg%2F11dz54q2s_!19sChIJUYwOLKrGyIARQncqZzpShvg?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Trapped! Escape Room Las Vegas",
-        "address": "4760 Polaris Ave, Las Vegas, NV 89103, United States",
-        "phone number": "+1 702-907-8078",
-        "url": "http://www.trappedescaperoomvegas.com/",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "1,007 reviews",
-        "links": "https://www.google.com/maps/place/Trapped!+Escape+Room+Las+Vegas/data=!4m7!3m6!1s0x80c8c42bb7779763:0xd2810b03da22a26b!8m2!3d36.1035814!4d-115.1853323!16s%2Fg%2F11gfj_s7z6!19sChIJY5d3tyvEyIARa6Ii2gMLgdI?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Black Cats Number One Escape Room Las Vegas",
-        "address": "1775 E Tropicana Ave #100, Las Vegas, NV 89119, United States",
-        "phone number": "+1 702-528-1459",
-        "url": "https://numberoneescaperoom.com/?utm_source=google&utm_medium=gmb&utm_campaign=Google_My_Business",
-        "hours": "\u22c5 Opens 10:45\u202fam",
-        "reviews": "4,172 reviews",
-        "links": "https://www.google.com/maps/place/Black+Cats+Number+One+Escape+Room+Las+Vegas/data=!4m7!3m6!1s0x80c8c511c8b504c9:0xa704ca72b281f48!8m2!3d36.1006441!4d-115.1284452!16s%2Fg%2F11dxc0stk0!19sChIJyQS1yBHFyIARSB8oK6dMcAo?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escapology",
-        "address": "3116 Mission Blvd, San Diego, CA 92109, United States",
-        "phone number": "+1 858-412-5914",
-        "url": "https://www.escapology.com/en/san-diego-ca",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "1,093 reviews",
-        "links": "https://www.google.com/maps/place/Escapology/data=!4m7!3m6!1s0x80deaa0e94d8144f:0x9faa8e0479334747!8m2!3d32.7706497!4d-117.2512988!16s%2Fg%2F11c0rhc8fn!19sChIJTxTYlA6q3oARR0czeQSOqp8?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Red Door Escape Room",
-        "address": "7007 Friars Rd Suite 212, San Diego, CA 92108, United States",
-        "phone number": "+1 619-679-1690",
-        "url": "https://reddoorescape.com/escape-rooms/san-diego/",
-        "hours": "\u22c5 10\u202fam",
-        "reviews": "4,172 reviews",
-        "links": "https://www.google.com/maps/place/Red+Door+Escape+Room/data=!4m7!3m6!1s0x80d9555e401e3a01:0x906ca0394c5dc16!8m2!3d32.7669028!4d-117.1685733!16s%2Fg%2F11q1d5vs86!19sChIJAToeQF5V2YARFtzFlAPKBgk?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Lara's Labyrinth",
-        "address": "2110 Hancock St, San Diego, CA 92110, United States",
-        "phone number": "+1 858-348-0420",
-        "url": "http://ca.laraslabyrinth.com/",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "1,574 reviews",
-        "links": "https://www.google.com/maps/place/Lara%27s+Labyrinth/data=!4m7!3m6!1s0x80deab55be970ea3:0x3eca487e77b62461!8m2!3d32.7452141!4d-117.1899645!16s%2Fg%2F11v0zjs0h3!19sChIJow6XvlWr3oARYSS2d35Iyj4?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Clue Avenue Escape Rooms",
-        "address": "201 E Grand Ave #2g, Escondido, CA 92025, United States",
-        "phone number": "+1 760-349-6609",
-        "url": "http://www.clueavenue.com/",
-        "hours": "\u22c5 Opens 11\u202fam",
-        "reviews": "717 reviews",
-        "links": "https://www.google.com/maps/place/Clue+Avenue+Escape+Rooms/data=!4m7!3m6!1s0x80dbf49d7e635431:0xc93e249e4b40f246!8m2!3d33.1221191!4d-117.0796808!16s%2Fg%2F11byyq_p2f!19sChIJMVRjfp3024ARRvJAS54kPsk?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game San Diego",
-        "address": "232 Fifth Ave, San Diego, CA 92101, United States",
-        "phone number": "+1 619-853-2834",
-        "url": "https://theescapegame.com/san-diego/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=san-diego",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "3,250 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+San+Diego/data=!4m7!3m6!1s0x80d953668396fe55:0xebe4bb325335d55!8m2!3d32.7079679!4d-117.1602673!16s%2Fg%2F11shc_1nfj!19sChIJVf6Wg2ZT2YARVV0zJbNLvg4?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Psych Escape Room",
-        "address": "18058 Wolf Rd, Orland Park, IL 60467, United States",
-        "phone number": "+1 708-942-4818",
-        "url": "http://www.psychescaperoom.com/",
-        "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "132 reviews",
-        "links": "https://www.google.com/maps/place/Psych+Escape+Room/data=!4m7!3m6!1s0x880e6af52e93987f:0xd1858b3a9799f1b3!8m2!3d41.5615371!4d-87.8922553!16s%2Fg%2F11fxvqtmc5!19sChIJf5iTLvVqDogRs_GZlzqLhdE?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escapology",
-        "address": "15830 S Harlem Ave, Orland Park, IL 60462, United States",
-        "phone number": "+1 708-465-5007",
-        "url": "https://www.escapology.com/en/orland-park-il",
-        "hours": "\u22c5 12\u202fpm",
-        "reviews": "1,146 reviews",
-        "links": "https://www.google.com/maps/place/Escapology/data=!4m7!3m6!1s0x880e3fb89fb55055:0xd1d6a287b540c0d0!8m2!3d41.6036633!4d-87.795165!16s%2Fg%2F11ggqnrpjx!19sChIJVVC1n7g_DogR0MBAtYei1tE?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Legendary Escape Rooms & Axe Throwing",
-        "address": "15115 Des Plaines St, Plainfield, IL 60544, United States",
-        "phone number": "+1 630-593-1465",
-        "url": "http://www.legendaryescaperooms.com/",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "216 reviews",
-        "links": "https://www.google.com/maps/place/Legendary+Escape+Rooms+%26+Axe+Throwing/data=!4m7!3m6!1s0x880ef5bd8b563031:0xfa871882d6a3e406!8m2!3d41.6078766!4d-88.2048315!16s%2Fg%2F11n09l0gc6!19sChIJMTBWi731DogRBuSj1oIYh_o?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Adda Mysore",
-        "address": "No 196 / 2 Cikkayyana Chhatra Hobli, Rampura Post, Karnataka 571314",
-        "phone number": "091485 38999",
-        "url": "url not found",
-        "hours": "",
-        "reviews": "24 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Adda+Mysore/data=!4m7!3m6!1s0x3baf60a5f6a1a383:0x34f2515e22e0d3fe!8m2!3d12.1131876!4d76.5369298!16s%2Fg%2F11hc_17600!19sChIJg6Oh9qVgrzsR_tPgIl5R8jQ?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "NoEscape Mysuru",
-        "address": "973, First Floor, GEMARS infinity, Main Road, opposite Nirmithi Kendra, Bogadi 2nd Stage, Bogadi 2nd Stage North, Mysuru, Karnataka 570026",
-        "phone number": "082170 51505",
-        "url": "https://www.noescape.in/",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "110 reviews",
-        "links": "https://www.google.com/maps/place/NoEscape+Mysuru/data=!4m7!3m6!1s0x3baf7b42cf62bdd5:0x357b13562b460e40!8m2!3d12.3100133!4d76.608392!16s%2Fg%2F11vlt3d60j!19sChIJ1b1iz0J7rzsRQA5GK1YTezU?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Unbound Escape Room",
-        "address": "2784, 9th Cross, Kalidasa Rd, behind ICICI Bank, Vani Vilas Mohalla, Mysuru, Karnataka 570012",
-        "phone number": "Phone number not found",
-        "url": "http://linktr.ee/unboundescaperoom",
-        "hours": "\u22c5 Opens 11\u202fam Sun",
-        "reviews": "56 reviews",
-        "links": "https://www.google.com/maps/place/Unbound+Escape+Room/data=!4m7!3m6!1s0x3baf7b9a2a5e48c9:0x3fbbfc97e18b33b1!8m2!3d12.3241967!4d76.6273144!16s%2Fg%2F11y29p4m3f!19sChIJyUheKpp7rzsRsTOL4Zf8uz8?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Dare 2 Escape",
-        "address": "37, Ramachandra Rd, R.S. Puram, Coimbatore, Tamil Nadu 641002",
-        "phone number": "097897 31012",
-        "url": "http://www.dare2escape.in/",
-        "hours": "\u22c5 Opens 10:30\u202fam Sun",
-        "reviews": "3,749 reviews",
-        "links": "https://www.google.com/maps/place/Dare+2+Escape/data=!4m7!3m6!1s0x3ba8591b356f6d3f:0xa73fd8a5300fdea4!8m2!3d11.006474!4d76.954388!16s%2Fg%2F11cn94d7p4!19sChIJP21vNRtZqDsRpN4PMKXYP6c?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Kodiveri Waterfalls",
-        "address": "F7FW+7H7, Akkaraikodivery, Tamil Nadu 638503",
-        "phone number": "1800 4253 1111",
-        "url": "url not found",
-        "hours": "\u22c5 Opens 9\u202fam Sun",
-        "reviews": "18,306 reviews",
-        "links": "https://www.google.com/maps/place/Kodiveri+Waterfalls/data=!4m7!3m6!1s0x3ba923d2c86185cd:0x5d9a0eeaeb9ade43!8m2!3d11.4731723!4d77.2964271!16s%2Fg%2F1yg57v35s!19sChIJzYVhyNIjqTsRQ96a6-oOml0?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "House Off Riddles",
-        "address": "No:65/1, First Floor, Nava India Rd, Peelamedu, STV Nagar, Coimbatore, Tamil Nadu 641004",
-        "phone number": "063741 90414",
-        "url": "url not found",
-        "hours": "\u22c5 Opens 10\u202fam Sun",
-        "reviews": "25 reviews",
-        "links": "https://www.google.com/maps/place/House+Off+Riddles/data=!4m7!3m6!1s0x3ba8598a529c9685:0x278e74d81951a2b1!8m2!3d11.0219122!4d76.9937943!16s%2Fg%2F11sk3l8x82!19sChIJhZacUopZqDsRsaJRGdh0jic?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Dare 2 Escape",
-        "address": "Prabanchana Complex 345 /2, to, Thudiyalur Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035",
-        "phone number": "090438 95174",
-        "url": "http://www.dare2escape.in/",
-        "hours": "\u22c5 Opens 9\u202fam Sun",
-        "reviews": "374 reviews",
-        "links": "https://www.google.com/maps/place/Dare+2+Escape/data=!4m7!3m6!1s0x3ba8f70451989c85:0x997d37f270c2a4a1!8m2!3d11.0803176!4d76.9953651!16s%2Fg%2F11v0ykqrhl!19sChIJhZyYUQT3qDsRoaTCcPI3fZk?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mcube Escape Rooms",
-        "address": "Level 3/80 Currie St, Adelaide SA 5000, Australia",
-        "phone number": "+61 406 550 520",
-        "url": "url not found",
-        "hours": "\u22c5 Opens 10\u202fam",
-        "reviews": "49 reviews",
-        "links": "https://www.google.com/maps/place/Mcube+Escape+Rooms/data=!4m7!3m6!1s0x6ab0cfd2dd899b8d:0x1bfe0ffb05092233!8m2!3d-34.9242498!4d138.5966518!16s%2Fg%2F11t_gxvfb9!19sChIJjZuJ3dLPsGoRMyIJBfsP_hs?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mission Escape George St",
-        "address": "Level 5/724 George St, Haymarket NSW 2000, Australia",
-        "phone number": "+61 2 8054 5524",
-        "url": "http://www.missionsydney.com/",
-        "hours": "\u22c5 Opens 10\u202fam",
-        "reviews": "1,348 reviews",
-        "links": "https://www.google.com/maps/place/Mission+Escape+George+St/data=!4m7!3m6!1s0x6b12af358cbe5757:0x2f8ac518bf72f3f1!8m2!3d-33.8788931!4d151.2058086!16s%2Fg%2F11h2bc3c9k!19sChIJV1e-jDWvEmsR8fNyvxjFii8?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Ultimate Roomscape",
-        "address": "6/9 Bonner Dr, Malaga WA 6090, Australia",
-        "phone number": "+61 8 9248 2116",
-        "url": "http://www.ultroomscape.com.au/",
-        "hours": "\u22c5 Opens 11:30\u202fam",
-        "reviews": "720 reviews",
-        "links": "https://www.google.com/maps/place/Ultimate+Roomscape/data=!4m7!3m6!1s0x2a32b1bf2b9cd139:0xe94411384401a073!8m2!3d-31.8505318!4d115.8785747!16s%2Fg%2F11bt_g_nzz!19sChIJOdGcK7-xMioRc6ABRDgRROk?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Squad",
-        "address": "2/98 Pinjarra Rd, Mandurah WA 6210, Australia",
-        "phone number": "+61 8 9522 1339",
-        "url": "http://www.escapesquad.com.au/",
-        "hours": "\u22c5 Opens 9\u202fam",
-        "reviews": "125 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Squad/data=!4m7!3m6!1s0x2a327f8dd8f7092f:0x9ca119027f2390b!8m2!3d-32.5344295!4d115.7269671!16s%2Fg%2F11qbxyx1bl!19sChIJLwn32I1_MioRCznyJ5ARygk?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "ESCAPE THIS - Perth CBD",
-        "address": "712-720 Hay Street Mall, Perth WA 6000, Australia",
-        "phone number": "+61 8 6118 0286",
-        "url": "https://www.escapethis.com.au/?utm_source=google&utm_medium=organic&utm_campaign=gbp-perth",
-        "hours": "\u22c5 Opens 10:30\u202fam",
-        "reviews": "1,333 reviews",
-        "links": "https://www.google.com/maps/place/ESCAPE+THIS+-+Perth+CBD/data=!4m7!3m6!1s0x2a32bb8db6b47939:0x5ddbacc10d2546fe!8m2!3d-31.9537268!4d115.8578088!16s%2Fg%2F11kbb6g_kg!19sChIJOXm0to27MioR_kYlDcGs210?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Z-escape, The Library of Enchantment",
-        "address": "Z-arts, 335 Stretford Rd, Hulme, Manchester M15 5ZA, United Kingdom",
-        "phone number": "+44 161 226 1912",
-        "url": "https://www.z-arts.org/events/the-library-of-enchantment/",
-        "hours": "\u22c5 6\u202fpm \u22c5 Opens 10\u202fam Tue",
-        "reviews": "2 reviews",
-        "links": "https://www.google.com/maps/place/Z-escape,+The+Library+of+Enchantment/data=!4m7!3m6!1s0x487bb1240322b7ad:0xf689f3274ae8f289!8m2!3d53.4664592!4d-2.2521998!16s%2Fg%2F11txy3gmrl!19sChIJrbciAySxe0gRifLoSifzifY?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Lucardo Manchester - Escape Rooms",
-        "address": "House, Floor 2, 5-7 Great Ancoats Street Virginia, Manchester M4 5AD, United Kingdom",
-        "phone number": "+44 161 425 2580",
-        "url": "https://lucardo.com/",
-        "hours": "\u22c5 Closes 9:30\u202fpm",
-        "reviews": "683 reviews",
-        "links": "https://www.google.com/maps/place/Lucardo+Manchester+-+Escape+Rooms/data=!4m7!3m6!1s0x487bb1b9602748e5:0xf08916dff1fa41d!8m2!3d53.4846834!4d-2.2322518!16s%2Fg%2F11cn6p626q!19sChIJ5UgnYLmxe0gRHaQf_22RCA8?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Breakout Manchester Newton Street",
-        "address": "87 Newton St, Manchester M1 1EX, United Kingdom",
-        "phone number": "+44 161 236 5875",
-        "url": "http://www.breakoutmanchester.com/",
-        "hours": "\u22c5 Closes 9:30\u202fpm",
-        "reviews": "872 reviews",
-        "links": "https://www.google.com/maps/place/Breakout+Manchester+Newton+Street/data=!4m7!3m6!1s0x487bb1c0ab6e36fb:0x4c03332ee04f2d56!8m2!3d53.4830583!4d-2.2314607!16s%2Fg%2F11cl_4nq6w!19sChIJ-zZuq8Cxe0gRVi1P4C4zA0w?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape Hunt Manchester",
-        "address": "Unit 19, Corn Exchange, Exchange Sq, Manchester M4 3TR, United Kingdom",
-        "phone number": "+44 161 237 1222",
-        "url": "https://escapehunt.com/uk/manchester/",
-        "hours": "\u22c5 Closes 10:30\u202fpm",
-        "reviews": "3,262 reviews",
-        "links": "https://www.google.com/maps/place/Escape+Hunt+Manchester/data=!4m7!3m6!1s0x487bb13f59f2c367:0x3735b44025a1f4c0!8m2!3d53.4853111!4d-2.2434773!16s%2Fg%2F11gw2r4f7d!19sChIJZ8PyWT-xe0gRwPShJUC0NTc?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Breakout Manchester Church Street",
-        "address": "51 Church St, Manchester M4 1PD, United Kingdom",
-        "phone number": "+44 161 839 8012",
-        "url": "http://www.breakoutmanchester.com/",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "722 reviews",
-        "links": "https://www.google.com/maps/place/Breakout+Manchester+Church+Street/data=!4m7!3m6!1s0x487bb1c230caec7f:0x3cc9845bc45e4a0!8m2!3d53.4828305!4d-2.236104!16s%2Fg%2F11b5pj2vf7!19sChIJf-zKMMKxe0gRoORFvEWYzAM?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Escape Game Dedham",
-        "address": "224 Legacy Pl, Dedham, MA 02026, United States",
-        "phone number": "+1 781-678-4263",
-        "url": "https://theescapegame.com/dedham/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=dedham",
-        "hours": "\u22c5 Closes 12\u202fam",
-        "reviews": "1,536 reviews",
-        "links": "https://www.google.com/maps/place/The+Escape+Game+Dedham/data=!4m7!3m6!1s0x89e37f0c40996eb9:0x8b528659961a526b!8m2!3d42.2311216!4d-71.1769533!16s%2Fg%2F11vlv3jbjd!19sChIJuW6ZQAx_44kRa1IallmGUos?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "The Midnight Games",
-        "address": "120 Pearl St, Fall River, MA 02721, United States",
-        "phone number": "+1 774-415-0153",
-        "url": "https://themidnight.games/",
-        "hours": "\u22c5 Opens 4\u202fpm",
-        "reviews": "229 reviews",
-        "links": "https://www.google.com/maps/place/The+Midnight+Games/data=!4m7!3m6!1s0x89e4f9d732f989cb:0xe1505bd3602ee18e!8m2!3d41.6993107!4d-71.1585037!16s%2Fg%2F11vr05h2kl!19sChIJy4n5Mtf55IkRjuEuYNNbUOE?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape the Room Boston",
-        "address": "33 West St 3rd floor, Boston, MA 02111, United States",
-        "phone number": "+1 857-239-7424",
-        "url": "https://escapetheroom.com/boston/?utm_source=GMBlisting&utm_medium=organic",
-        "hours": "\u22c5 Closes 11:30\u202fpm",
-        "reviews": "4,783 reviews",
-        "links": "https://www.google.com/maps/place/Escape+the+Room+Boston/data=!4m7!3m6!1s0x89e3709d3ad4c8e9:0x1b05fca576669963!8m2!3d42.3549043!4d-71.0624434!16s%2Fg%2F11b6_xng73!19sChIJ6cjUOp1w44kRY5lmdqX8BRs?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escapology",
-        "address": "345 Main St, Tewksbury, MA 01876, United States",
-        "phone number": "+1 978-455-2199",
-        "url": "https://www.escapology.com/en/tewksbury-ma/",
-        "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "291 reviews",
-        "links": "https://www.google.com/maps/place/Escapology/data=!4m7!3m6!1s0x89e3a6b7a58eb9b7:0x1407fc219e945e38!8m2!3d42.6230701!4d-71.2658874!16s%2Fg%2F11f08m9pwg!19sChIJt7mOpbem44kROF6UniH8BxQ?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Breakout Games - Boston (Woburn)",
-        "address": "100 Tradecenter Dr Suite 680, Woburn, MA 01801, United States",
-        "phone number": "+1 781-358-0909",
-        "url": "https://www.breakoutgames.com/boston/bookings/woburn?utm_source=google&utm_medium=organic&utm_campaign=gmb-boston-woburn",
-        "hours": "\u22c5 Closes 1\u202fam",
-        "reviews": "6,093 reviews",
-        "links": "https://www.google.com/maps/place/Breakout+Games+-+Boston+%28Woburn%29/data=!4m7!3m6!1s0x89e37516788321bf:0xb46885d6d96afa15!8m2!3d42.5012074!4d-71.1624575!16s%2Fg%2F11c6s523hd!19sChIJvyGDeBZ144kRFfpq2daFaLQ?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Rabbit Hole Recreation Services - Escape Rooms",
-        "address": "1156 W Dillon Rd #1, Louisville, CO 80027, United States",
-        "phone number": "+1 720-890-4242",
-        "url": "https://rabbithole.rs/",
-        "hours": "\u22c5 Closes 10\u202fpm",
-        "reviews": "724 reviews",
-        "links": "https://www.google.com/maps/place/Rabbit+Hole+Recreation+Services+-+Escape+Rooms/data=!4m7!3m6!1s0x876bf32c005251cf:0x7f5b9c610c39ba5b!8m2!3d39.9607272!4d-105.1666807!16s%2Fg%2F11c6_64_cy!19sChIJz1FSACzza4cRW7o5DGGcW38?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Escape the Room Denver (Littleton)",
-        "address": "8501 W Bowles Ave, Littleton, CO 80123, United States",
-        "phone number": "+1 720-608-9388",
-        "url": "https://escapetheroom.com/denver/?utm_source=GMBlisting&utm_medium=organic",
-        "hours": "\u22c5 Closes 11\u202fpm",
-        "reviews": "1,862 reviews",
-        "links": "https://www.google.com/maps/place/Escape+the+Room+Denver+%28Littleton%29/data=!4m7!3m6!1s0x876b7fa3ee83cd35:0x74aae65c3fd454d3!8m2!3d39.6120528!4d-105.0943956!16s%2Fg%2F11gj1vl974!19sChIJNc2D7qN_a4cR01TUP1zmqnQ?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "mile high escape ops",
-        "address": "2412 E Bridge St, Brighton, CO 80601, United States",
-        "phone number": "+1 720-583-0213",
-        "url": "https://www.milehighescapeops.com/",
-        "hours": "",
-        "reviews": "423 reviews",
-        "links": "https://www.google.com/maps/place/mile+high+escape+ops/data=!4m7!3m6!1s0x876c6dde2e1b04f3:0xcc4d70ecb5b9589d!8m2!3d39.98577!4d-104.7926685!16s%2Fg%2F11mvvrhsdf!19sChIJ8wQbLt5tbIcRnVi5texwTcw?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Golden Puzzle Room",
-        "address": "1350 Independence St Suite 100, Lakewood, CO 80215, United States",
-        "phone number": "+1 303-396-7359",
-        "url": "http://www.goldenpuzzleroom.com/",
-        "hours": "\u22c5 Closes 9\u202fpm",
-        "reviews": "270 reviews",
-        "links": "https://www.google.com/maps/place/Golden+Puzzle+Room/data=!4m7!3m6!1s0x876b9ad2f1163063:0x65ff3c54c5deae84!8m2!3d39.7377793!4d-105.1044018!16s%2Fg%2F11g9vssp86!19sChIJYzAW8dKaa4cRhK7exVQ8_2U?authuser=0&hl=en&rclk=1"
-    },
-    {
-        "name": "Mission Escapes - The Reality Escape Room",
-        "address": "1338 S Valentia St Suite 135, Denver, CO 80247, United States",
-        "phone number": "+1 720-440-0010",
-        "url": "https://missionescapes.com/",
-        "hours": "\u22c5 Opens 12\u202fpm",
-        "reviews": "680 reviews",
-        "links": "https://www.google.com/maps/place/Mission+Escapes+-+The+Reality+Escape+Room/data=!4m7!3m6!1s0x876c87ee613f0f7f:0x48616f4a8708955e!8m2!3d39.6921285!4d-104.8910332!16s%2Fg%2F11b_2sdshk!19sChIJfw8_Ye6HbIcRXpUIh0pvYUg?authuser=0&hl=en&rclk=1"
+        "reviews": "2,889 reviews",
+        "links": "https://www.google.com/maps/place/Mystery+Rooms+-+Koregaon+Park,+Pune+%28OFFICIAL+Escape+Rooms%29/data=!4m7!3m6!1s0x3bc2c107ee1e9801:0x3c3c2053baec9cc6!8m2!3d18.5344236!4d73.899733!16s%2Fg%2F11c6cfr6sg!19sChIJAZge7gfBwjsRxpzsulMgPDw?authuser=0&hl=en&rclk=1"
     }
 ]
